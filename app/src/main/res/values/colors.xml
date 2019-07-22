@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2055F5</color>
+    <color name="colorPrimaryDark">#282BF8</color>
+    <color name="colorAccent">#28AEE9</color>
+    <color name="babyPink">#FC7272</color>
+    <color name="left_chat_text_color">#272727</color>
+    <color name="hint_color">#424141</color>
+</resources>
